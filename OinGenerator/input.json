@@ -1,0 +1,63 @@
+{
+  "TemplateName": "template_rmezi.hrv.env",
+  "Name": "26-11-60-96-16",
+  "FellingType": "Galvenā vienlaidus cirte",
+  "Owner": "Rīgas meži",
+  "CadastralNumber": "80800050031",
+  "LoggingOrganisation": "AMMZ pakalpojumi, SIA",
+  "ContractNumber": "LI-25-39",
+  "FellingProducts": [
+    {
+      "Specie": "PRIEDE",
+      "Assortment": "GULSNIS"
+    },
+    {
+      "Specie": "PRIEDE",
+      "Assortment": "TARA"
+    },
+    {
+      "Specie": "PRIEDE",
+      "Assortment": "PMSK"
+    },
+    {
+      "Specie": "PRIEDE",
+      "Assortment": "MALKA"
+    },
+    {
+      "Specie": "EGLE",
+      "Assortment": "GULSNIS"
+    },
+    {
+      "Specie": "EGLE",
+      "Assortment": "TARA"
+    },
+    {
+      "Specie": "EGLE",
+      "Assortment": "PMSK"
+    },
+    {
+      "Specie": "EGLE",
+      "Assortment": "MALKA"
+    },
+    {
+      "Specie": "BERZS",
+      "Assortment": "FIB"
+    },
+    {
+      "Specie": "BERZS",
+      "Assortment": "PMB"
+    },
+    {
+      "Specie": "BERZS",
+      "Assortment": "MALKA"
+    },
+    {
+      "Specie": "LAPU KOKI",
+      "Assortment": "TARA"
+    },
+    {
+      "Specie": "LAPU KOKI",
+      "Assortment": "MALKA"
+    }
+  ]
+}
